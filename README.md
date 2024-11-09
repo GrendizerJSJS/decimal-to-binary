@@ -1,2 +1,1 @@
-# yanux
-hello world!
+# simple programme to convert decimal number to binary 
